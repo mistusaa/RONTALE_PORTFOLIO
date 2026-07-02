@@ -215,10 +215,10 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Game Developer";
     }
     21%, 40%{
-        content: "Game Developer";
+        content: "Web Developer";
     }
     41%, 60%{
         content: "Web Designer";
@@ -321,6 +321,8 @@ span{
     color: white;
     margin-top: 0.5rem;
 }
+
+
 
 /*education tab*/
 .education-section {
